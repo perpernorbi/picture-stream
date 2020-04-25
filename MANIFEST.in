@@ -1,0 +1,2 @@
+graft picture_stream/static
+global-exclude *.pyc
